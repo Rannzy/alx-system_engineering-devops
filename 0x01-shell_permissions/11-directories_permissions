@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdire -m751 my_dir
+chmod -R ugo+x .
