@@ -1,2 +1,2 @@
 #!/bin/bash
-tr รร"A" "Z" | "c" "e"
+tr ร"A" "Z" | tr "c" ร"e"
